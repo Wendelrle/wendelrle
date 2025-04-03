@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou o Wendel 🚀
 
-<!--
-**Wendelrle/wendelrle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Impacta  
+💻 Aprendendo **JavaScript, HTML, CSS, Banco de Dados e Automação**  
+📌 Buscando um estágio para crescer como **desenvolvedor**  
+📂 Meus projetos: [GitHub](https://github.com/wendelrle)  
+📫 Contato: [LinkedIn](https://http://linkedin.com/in/wendel-alves-machado)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que estudo:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Banco de Dados](https://img.shields.io/badge/-Banco%20de%20Dados-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 📊 GitHub Stats:
+![Wendel GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+---
+✍️ _"Sempre aprendendo e evoluindo!"_
